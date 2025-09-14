@@ -1,4 +1,9 @@
-
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ 
   <h1>Продукты Siberian Wellness</h1>
   <p>Ваш консультант: Эльвира</p>
 </header>
@@ -16,7 +21,7 @@
     </div>
     <ul>
       <li>Железо в форме хелата — 18 мг</li>
-      <li>Улучшает кроветворение</li>
+      <li>Улучшает кровотечение</li>
       <li>Поддерживает уровень гемоглобина</li>
     </ul>
     <p><strong>Как принимать:</strong> по 1 капсуле в день во время еды.</p>
@@ -71,4 +76,3 @@
 
 </body>
 </html>
-
