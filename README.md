@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -6,14 +6,13 @@
  
   <h1>Продукты Siberian Wellness</h1>
   <p>Ваш консультант: Эльвира</p>
-</header>
 
 <div class="container">
 
   <!-- Iron bisglycinate -->
   <div class="product">
     <h2>Хелат железа Siberian Wellness</h2>
-    <p>Хелат железа для улучшения кроветворения и повышения уровня гемоглобина.</p>
+    <p>Хелат железа для улучшения кровотечение и повышения уровня гемоглобина.</p>
     <div class="image-container">
       <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501290_1e04a14d_fit_300_300.jpg" 
            alt="Хелат железа Siberian Wellness, 60 капсул" />
