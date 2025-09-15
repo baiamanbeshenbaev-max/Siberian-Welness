@@ -12,7 +12,7 @@
   <!-- Iron bisglycinate -->
   <div class="product">
     <h2>Хелат железа Siberian Wellness</h2>
-    <p>Хелат железа для улучшения кровотечение и повышения уровня гемоглобина.</p>
+    <p>Хелат железа для улучшения кровообращение и повышения уровня гемоглобина.</p>
     <div class="image-container">
       <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501290_1e04a14d_fit_300_300.jpg" 
            alt="Хелат железа Siberian Wellness, 60 капсул" />
@@ -20,7 +20,7 @@
     </div>
     <ul>
       <li>Железо в форме хелата — 18 мг</li>
-      <li>Улучшает кровотечение</li>
+      <li>Улучшает кровообращение</li>
       <li>Поддерживает уровень гемоглобина</li>
     </ul>
     <p><strong>Как принимать:</strong> по 1 капсуле в день во время еды.</p>
