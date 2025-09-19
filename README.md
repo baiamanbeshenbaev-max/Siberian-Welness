@@ -3,75 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Siberian Wellness</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background: #f6f9f6;
-      margin: 0;
-      padding: 0;
-      color: #333;
-    }
-    header {
-      background: #1c5b3d;
-      color: white;
-      padding: 20px;
-      text-align: center;
-    }
-    h1 {
-      margin: 0;
-      font-size: 28px;
-    }
-    .container {
-      max-width: 900px;
-      margin: 20px auto;
-      padding: 0 15px;
-    }
-    .product {
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-      margin-bottom: 25px;
-      padding: 20px;
-    }
-    h2 {
-      color: #1c5b3d;
-      margin-top: 0;
-    }
-    ul {
-      margin: 10px 0 15px 20px;
-    }
-    .btn {
-      display: inline-block;
-      padding: 10px 18px;
-      background: #1e8e5a;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: bold;
-    }
-    footer {
-      text-align: center;
-      padding: 15px;
-      font-size: 14px;
-      color: #999;
-      margin-top: 40px;
-    }
-    .image-container {
-      text-align: center;
-      margin: 20px 0;
-    }
-    .image-container img {
-      width: 300px;
-      border-radius: 8px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-    }
-    .caption {
-      font-size: 14px;
-      color: #555;
-      margin-top: 8px;
-    }
-  </style>
+ 
 </head>
 <body>
 
