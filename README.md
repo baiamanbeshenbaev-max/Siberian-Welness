@@ -5,68 +5,36 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Siberian-Welness | Landing page for my business</title>
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f8f8f8;
-      margin: 0;
-      padding: 20px;
-      color: #333;
-      font-size: 16px;
-      line-height: 1.5;
-    }
-    header, footer {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-    }
-    .product {
-      background-color: #fff;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 20px;
-      margin-bottom: 25px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
-    .image-container {
-      text-align: center;
-      margin-bottom: 10px;
-    }
-    .image-container img {
-      max-width: 250px;
-      width: 100%;
-      height: auto;
-      border-radius: 6px;
-      object-fit: contain;
-    }
-    .caption {
-      font-size: 14px;
-      color: #777;
-      margin-top: 5px;
-    }
-    ul {
-      padding-left: 20px;
-      margin: 10px 0;
-      font-size: 16px;
-    }
-    p {
-      font-size: 16px;
-      margin: 10px 0;
-    }
-    .btn {
-      display: inline-block;
-      margin-top: 15px;
-      padding: 12px 24px;
-      background-color: #27ae60;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: bold;
-      font-size: 16px;
-      transition: background-color 0.3s ease;
-    }
+    @media (max-width: 600px) {
+  body {
+    padding: 10px;
+    font-size: 22px; /* увеличенный размер шрифта для телефона */
+  }
+  .container {
+    padding: 0 10px;
+  }
+  .product {
+    padding: 15px;
+  }
+  .image-container img {
+    max-width: 100%;
+  }
+  .btn {
+    width: 100%;
+    padding: 16px 0;
+    font-size: 20px;
+  }
+  ul {
+    font-size: 20px;
+  }
+  p, .caption {
+    font-size: 20px;
+  }
+  .price {
+    font-size: 22px;
+  }
+}
+
     .btn:hover {
       background-color: #1e8449;
     }
