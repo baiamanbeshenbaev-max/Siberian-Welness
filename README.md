@@ -11,7 +11,7 @@
       margin: 0;
       padding: 20px;
       color: #333;
-      font-size: 16px;
+      font-size: 18px;
       line-height: 1.5;
     }
     header, footer {
