@@ -34,11 +34,20 @@
       text-align: center;
       margin-bottom: 10px;
     }
-    .image-container img {
-      max-width: 250px;
-      height: auto;
-      border-radius: 6px;
-    }
+   .image-container {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-container img {
+  max-height: 100%;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
     .caption {
       font-size: 14px;
       color: #777;
