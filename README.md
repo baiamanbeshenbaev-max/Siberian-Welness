@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
- <meta name="viewport" content="width=800">
+ <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Siberian Wellness</title>
   <style>
     body {
@@ -241,6 +241,11 @@
   <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
   <p>Данный сайт не является официальным!</p>
 </footer>
+.container {
+  width: 900px;
+  margin: 0 auto;
+  overflow-x: auto;
+}
 
 </body>
 </html>
