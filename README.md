@@ -1,4 +1,47 @@
 <!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Siberian-Welness | Landing page for my business</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Siberian-Welness" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Landing page for my business" />
+<meta property="og:description" content="Landing page for my business" />
+<link rel="canonical" href="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/" />
+<meta property="og:url" content="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/" />
+<meta property="og:site_name" content="Siberian-Welness" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Siberian-Welness" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"Landing page for my business","headline":"Siberian-Welness","name":"Siberian-Welness","url":"https://baiamanbeshenbaev-max.github.io/Siberian-Welness/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/Siberian-Welness/assets/css/style.css?v=81e52be87c85a6a98afe4a8fb48e6bbad2603517">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/Siberian-Welness/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/">Siberian-Welness</a></h1>
+      
+
+      <p>&lt;!DOCTYPE html&gt;</p>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -248,4 +291,12 @@
 }
 
 </body>
+</html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
 </html>
