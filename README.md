@@ -213,22 +213,7 @@
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20Турбо%20Чай" target="_blank" class="btn">Заказать</a>
     </div>
 
-    <!-- Продукт 7 -->
-    <div class="product">
-      <h2>Мама Бокс Siberian Wellness</h2>
-      <p>Набор специально разработанных продуктов для поддержки здоровья будущих и молодых мам.</p>
-      <div class="image-container">
-        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/500631_box_438d99b4_fit_300_300.png" alt="Мама Бокс Siberian Wellness" />
-        <div class="caption">Мама Бокс (набор)</div>
-      </div>
-      <ul>
-        <li>Комплекс витаминов и минералов для беременных и кормящих</li>
-        <li>Поддержка иммунитета и общего тонуса</li>
-        <li>Безопасные натуральные ингредиенты</li>
-      </ul>
-      <p><strong>Рекомендации:</strong> использовать согласно инструкции внутри набора.</p>
-      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20Мама%20Бокс" target="_blank" class="btn">Заказать</a>
-    </div>
+  
 
     <!-- Продукт 8 -->
   <!-- Продукт: MAMA Box Грудное вскармливание -->
@@ -249,24 +234,7 @@
   <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20MAMA%20Box%20Грудное%20вскармливание" target="_blank" class="btn">Заказать</a>
 </div>
 
-    <!-- Продукт 9 -->
-    <div class="product">
-      <h2>Жевательные витамины Siberian Wellness</h2>
-      <p>Витамины в удобной жевательной форме для поддержки общего здоровья и иммунитета.</p>
-      <div class="image-container">
-        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501358_6f91f92f_fit_300_300.jpg" alt="Жевательные витамины Siberian Wellness" />
-        <div class="caption">Жевательные таблетки (упаковка)</div>
-      </div>
-      <ul>
-        <li>Витамины группы B</li>
-        <li>Витамин C для иммунитета</li>
-        <li>Минералы для поддержания энергии</li>
-      </ul>
-      <p><strong>Рекомендации:</strong> по 1–2 таблетки в день во время еды.</p>
-      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20жевательные%20витамины" target="_blank" class="btn">Заказать</a>
-    </div>
-
-  </div>
+ 
 
   <footer>
     <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
