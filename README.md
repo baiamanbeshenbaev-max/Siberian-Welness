@@ -72,7 +72,6 @@
     <div class="product">
       <h2>Хелат железа Siberian Wellness</h2>
       <p>Хелат железа для улучшения кровообращения и повышения уровня гемоглобина.</p>
- 
         <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501290_1e04a14d_fit_300_300.jpg" alt="Хелат железа Siberian Wellness" />
         <div class="caption">Баночка с хелатом железа (60 капсул)</div>
       </div>
