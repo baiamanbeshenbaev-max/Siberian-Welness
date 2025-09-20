@@ -1,54 +1,10 @@
 <!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Siberian-Welness | Landing page for my business</title>
-<meta name="generator" content="Jekyll v3.10.0" />
-<meta property="og:title" content="Siberian-Welness" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Landing page for my business" />
-<meta property="og:description" content="Landing page for my business" />
-<link rel="canonical" href="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/" />
-<meta property="og:url" content="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/" />
-<meta property="og:site_name" content="Siberian-Welness" />
-<meta property="og:type" content="website" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Siberian-Welness" />
-<script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","description":"Landing page for my business","headline":"Siberian-Welness","name":"Siberian-Welness","url":"https://baiamanbeshenbaev-max.github.io/Siberian-Welness/"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/Siberian-Welness/assets/css/style.css?v=b7e20cb8e1275ceca39637a5f336069b44670347">
-    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
-
-<!-- Setup Google Analytics -->
-
-
-
-<!-- You can set your favicon here -->
-<!-- link rel="shortcut icon" type="image/x-icon" href="/Siberian-Welness/favicon.ico" -->
-
-<!-- end custom head snippets -->
-
-  </head>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      
-      <h1><a href="https://baiamanbeshenbaev-max.github.io/Siberian-Welness/">Siberian-Welness</a></h1>
-      
-
-      <p>&lt;!DOCTYPE html&gt;</p>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Siberian-Welness | Landing page for my business</title>
   <meta name="description" content="Landing page for my business" />
-  <link rel="stylesheet" href="/Siberian-Welness/assets/css/style.css?v=9e05c5e88d9b9f4e21c5f675046dd7ea5c17241d" />
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -96,9 +52,40 @@
       text-decoration: none;
       border-radius: 5px;
       font-weight: bold;
+      transition: background-color 0.3s ease;
     }
     .btn:hover {
       background-color: #1e8449;
+    }
+    ul {
+      padding-left: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+    /* Медиазапрос для мобильных устройств */
+    @media (max-width: 600px) {
+      body {
+        font-size: 18px;
+      }
+      h1 {
+        font-size: 28px;
+      }
+      h2 {
+        font-size: 22px;
+      }
+      p, li {
+        font-size: 16px;
+      }
+      .caption {
+        font-size: 14px;
+      }
+      .btn {
+        font-size: 16px;
+        padding: 12px 24px;
+      }
+      .image-container img {
+        max-width: 100%;
+      }
     }
   </style>
 </head>
@@ -213,28 +200,25 @@
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20Турбо%20Чай" target="_blank" class="btn">Заказать</a>
     </div>
 
-  
+    <!-- MAMA Box Грудное вскармливание -->
+    <div class="product">
+      <h2>MAMA Box Грудное вскармливание</h2>
+      <p>Комплексная программа для поддержки здоровья кормящей мамы и нормального развития малыша.</p>
+      <div class="image-container">
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500701_new_3f44803c_fit_300_300.png" alt="MAMA Box Грудное вскармливание" />
+        <div class="caption">MAMA Box Грудное вскармливание (30 пакетов)</div>
+      </div>
+      <ul>
+        <li>Комплекс №1: концентрат рыбьего жира, витамины A, D₃, E, K₁</li>
+        <li>Комплекс №2: кальций, магний, витамины C, B₁, B₂, B₆, B₁₂, фолиевая кислота, ниацин, пантотеновая кислота</li>
+        <li>Комплекс №3: экстракт фукуса, фумарат железа, цинк, селен, марганец, медь</li>
+      </ul>
+      <p><strong>Рекомендации:</strong> принимать по 1 пакету в день во время еды.</p>
+      <p><strong>Цена:</strong> 4500 сом</p>
+      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20MAMA%20Box%20Грудное%20вскармливание" target="_blank" class="btn">Заказать</a>
+    </div>
 
-    <!-- Продукт 8 -->
-  <!-- Продукт: MAMA Box Грудное вскармливание -->
-<div class="product">
-  <h2>MAMA Box Грудное вскармливание</h2>
-  <p>Комплексная программа для поддержки здоровья кормящей мамы и нормального развития малыша.</p>
-  <div class="image-container">
-    <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500701_new_3f44803c_fit_300_300.png" />
-    <div class="caption">MAMA Box Грудное вскармливание (30 пакетов)</div>
   </div>
-  <ul>
-    <li>Комплекс №1: концентрат рыбьего жира, витамины A, D₃, E, K₁</li>
-    <li>Комплекс №2: кальций, магний, витамины C, B₁, B₂, B₆, B₁₂, фолиевая кислота, ниацин, пантотеновая кислота</li>
-    <li>Комплекс №3: экстракт фукуса, фумарат железа, цинк, селен, марганец, медь</li>
-  </ul>
-  <p><strong>Рекомендации:</strong> принимать по 1 пакету в день во время еды.</p>
-  <p><strong>Цена:</strong> 4500 сом</p>
-  <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20MAMA%20Box%20Грудное%20вскармливание" target="_blank" class="btn">Заказать</a>
-</div>
-
- 
 
   <footer>
     <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
@@ -242,12 +226,4 @@
   </footer>
 
 </body>
-</html>
-
-
-      
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
 </html>
