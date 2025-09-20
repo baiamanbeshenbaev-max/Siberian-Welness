@@ -7,7 +7,6 @@
   <meta name="description" content="Landing page for my business" />
   <link rel="stylesheet" href="/Siberian-Welness/assets/css/style.css?v=9e05c5e88d9b9f4e21c5f675046dd7ea5c17241d">
   <style>
-    /* Добавь сюда стили, если не используешь внешний CSS */
     body {
       font-family: Arial, sans-serif;
       background-color: #f8f8f8;
@@ -33,11 +32,17 @@
     }
     .image-container {
       text-align: center;
+      margin-bottom: 10px;
     }
     .image-container img {
       max-width: 250px;
       height: auto;
       border-radius: 6px;
+    }
+    .caption {
+      font-size: 14px;
+      color: #777;
+      margin-top: 5px;
     }
     .btn {
       display: inline-block;
@@ -56,20 +61,89 @@
 </head>
 <body>
 
-<header>
-  <h1>Продукты Siberian Wellness</h1>
-  <p>Ваш консультант: Эльвира</p>
-</header>
+  <header>
+    <h1>Продукты Siberian Wellness</h1>
+    <p>Ваш консультант: Эльвира</p>
+  </header>
 
-<div class="container">
-  <!-- Продукты начинаются здесь -->
-  <!-- Твой список продуктов уже в порядке — можешь оставить их -->
-</div>
+  <div class="container">
 
-<footer>
-  <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
-  <p>Данный сайт не является официальным!</p>
-</footer>
+    <!-- Продукт 1 -->
+    <div class="product">
+      <h2>Хелат железа Siberian Wellness</h2>
+      <p>Хелат железа для улучшения кровообращения и повышения уровня гемоглобина.</p>
+      <div class="image-container">
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501290_1e04a14d_fit_300_300.jpg" alt="Хелат железа Siberian Wellness" />
+        <div class="caption">Баночка с хелатом железа (60 капсул)</div>
+      </div>
+      <ul>
+        <li>Железо в форме хелата — 18 мг</li>
+        <li>Улучшает кровообращение</li>
+        <li>Поддерживает уровень гемоглобина</li>
+      </ul>
+      <p><strong>Как принимать:</strong> по 2 капсулы в день во время еды на протяжении месяца.</p>
+      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20хелат%20железа" target="_blank" class="btn">Заказать</a>
+    </div>
+
+    <!-- Продукт 2 -->
+    <div class="product">
+      <h2>Essential Minerals: Магний</h2>
+      <p>Магний в органической форме для поддержки нервной системы и снятия усталости.</p>
+      <div class="image-container">
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500629_b968dfed_fit_300_300.png" alt="Essential Minerals: Магний" />
+        <div class="caption">Магний в капсулах (60 капсул)</div>
+      </div>
+      <ul>
+        <li>Органическая форма магния — 150 мг</li>
+        <li>Поддержка нервной системы</li>
+        <li>Снижение утомляемости и стресса</li>
+      </ul>
+      <p><strong>Как принимать:</strong> по 3 капсулы в день во время еды в течение месяца.</p>
+      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20магний" target="_blank" class="btn">Заказать</a>
+    </div>
+
+    <!-- Продукт 3 -->
+    <div class="product">
+      <h2>Фиточай Siberian Wellness</h2>
+      <p>Травяной чай для поддержки здоровья и улучшения самочувствия.</p>
+      <div class="image-container">
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500586_sq_4f8e913a_fit_300_300.png" alt="Фиточай Siberian Wellness" />
+        <div class="caption">Фиточай с сибирскими травами и ягодами</div>
+      </div>
+      <ul>
+        <li>Натуральные травы и ягоды</li>
+        <li>Способствует расслаблению</li>
+        <li>Улучшает обмен веществ</li>
+      </ul>
+      <p><strong>Рекомендации:</strong> во время любого приема пищи.</p>
+      <a href="https://wa.me/996771927032" target="_blank" class="btn">Заказать</a>
+    </div>
+
+    <!-- Продукт 4 -->
+    <div class="product">
+      <h2>Essential Minerals: Кальций</h2>
+      <p>Кальций для укрепления костей, зубов и поддержки работы сердца и мышц.</p>
+      <div class="image-container">
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500628_ae4723fd_fit_300_300.png" alt="Кальций" />
+        <div class="caption">Кальций в капсулах (60 капсул)</div>
+      </div>
+      <ul>
+        <li>Кальций в органической форме — 200 мг</li>
+        <li>Укрепляет кости и зубы</li>
+        <li>Поддерживает работу сердца и мышц</li>
+      </ul>
+      <p><strong>Как принимать:</strong> по 1 капсуле 3 раза в день во время еды.</p>
+      <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20кальций" target="_blank" class="btn">Заказать</a>
+    </div>
+
+    <!-- Остальные продукты добавлять по аналогии -->
+
+  </div>
+
+  <footer>
+    <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
+    <p>Данный сайт не является официальным!</p>
+  </footer>
 
 </body>
 </html>
