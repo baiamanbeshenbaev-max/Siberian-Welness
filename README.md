@@ -9,9 +9,9 @@
       font-family: Arial, sans-serif;
       background-color: #f8f8f8;
       margin: 0;
-      padding: 20px;
+      padding: 16px;
       color: #333;
-      font-size: 18px;
+      font-size: 20px;
       line-height: 1.5;
     }
     header, footer {
