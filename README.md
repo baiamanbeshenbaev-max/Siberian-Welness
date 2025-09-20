@@ -4,52 +4,78 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Siberian-Welness | Landing page for my business</title>
+  <meta name="description" content="Landing page for my business" />
+  <link rel="stylesheet" href="/Siberian-Welness/assets/css/style.css?v=9e05c5e88d9b9f4e21c5f675046dd7ea5c17241d">
   <style>
-    @media (max-width: 600px) {
-  body {
-    padding: 10px;
-    font-size: 22px; /* увеличенный размер шрифта для телефона */
-  }
-  .container {
-    padding: 0 10px;
-  }
-  .product {
-    padding: 15px;
-  }
-  .image-container img {
-    max-width: 100%;
-  }
-  .btn {
-    width: 100%;
-    padding: 16px 0;
-    font-size: 20px;
-  }
-  ul {
-    font-size: 20px;
-  }
-  p, .caption {
-    font-size: 20px;
-  }
-  .price {
-    font-size: 22px;
-  }
-}
-
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f8f8f8;
+      margin: 0;
+      padding: 20px;
+      color: #333;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    header, footer {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .product {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 25px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .image-container {
+      text-align: center;
+      margin-bottom: 10px;
+    }
+    .image-container img {
+      max-width: 250px;
+      height: auto;
+      border-radius: 6px;
+    }
+    .caption {
+      font-size: 14px;
+      color: #777;
+      margin-top: 5px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 15px;
+      padding: 10px 20px;
+      background-color: #27ae60;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
     .btn:hover {
       background-color: #1e8449;
     }
     .price {
-      font-weight: bold;
       font-size: 18px;
-      margin-top: 10px;
-      color: #27ae60;
+      font-weight: bold;
+      color: #e67e22;
+      margin-top: 8px;
     }
-
-    /* Адаптивность для мобильных */
+    ul {
+      padding-left: 20px;
+      margin-top: 10px;
+    }
+    /* Адаптив для телефонов */
     @media (max-width: 600px) {
       body {
         padding: 10px;
-        font-size: 18px; /* чуть больше для удобства чтения */
+        font-size: 22px; /* Крупный шрифт для удобства */
       }
       .container {
         padding: 0 10px;
@@ -62,8 +88,17 @@
       }
       .btn {
         width: 100%;
-        padding: 14px 0;
-        font-size: 18px;
+        padding: 16px 0;
+        font-size: 20px;
+      }
+      ul {
+        font-size: 20px;
+      }
+      p, .caption {
+        font-size: 20px;
+      }
+      .price {
+        font-size: 22px;
       }
     }
   </style>
@@ -90,8 +125,8 @@
         <li>Улучшает кровообращение</li>
         <li>Поддерживает уровень гемоглобина</li>
       </ul>
+      <p class="price">Цена: 1500 ₽</p>
       <p><strong>Как принимать:</strong> по 2 капсулы в день во время еды на протяжении месяца.</p>
-      <div class="price">Цена: 1200 сом</div>
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20хелат%20железа" target="_blank" class="btn">Заказать</a>
     </div>
 
@@ -108,8 +143,8 @@
         <li>Поддержка нервной системы</li>
         <li>Снижение утомляемости и стресса</li>
       </ul>
+      <p class="price">Цена: 1300 ₽</p>
       <p><strong>Как принимать:</strong> по 3 капсулы в день во время еды в течение месяца.</p>
-      <div class="price">Цена: 1300 сом</div>
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20магний" target="_blank" class="btn">Заказать</a>
     </div>
 
@@ -126,8 +161,8 @@
         <li>Способствует расслаблению</li>
         <li>Улучшает обмен веществ</li>
       </ul>
+      <p class="price">Цена: 900 ₽</p>
       <p><strong>Рекомендации:</strong> во время любого приема пищи.</p>
-      <div class="price">Цена: 900 сом</div>
       <a href="https://wa.me/996771927032" target="_blank" class="btn">Заказать</a>
     </div>
 
@@ -144,12 +179,12 @@
         <li>Укрепляет кости и зубы</li>
         <li>Поддерживает работу сердца и мышц</li>
       </ul>
+      <p class="price">Цена: 1400 ₽</p>
       <p><strong>Как принимать:</strong> по 1 капсуле 3 раза в день во время еды.</p>
-      <div class="price">Цена: 1250 сом</div>
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20кальций" target="_blank" class="btn">Заказать</a>
     </div>
 
-    <!-- Добавь остальные продукты аналогично -->
+    <!-- Добавь остальные продукты по аналогии -->
 
   </div>
 
