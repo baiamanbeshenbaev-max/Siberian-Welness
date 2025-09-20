@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
- <meta name="viewport" content="width=900">
+ <meta name="viewport" content="width=800">
   <title>Siberian Wellness</title>
   <style>
     body {
