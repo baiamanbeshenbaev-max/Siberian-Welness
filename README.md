@@ -73,7 +73,7 @@
       <h2>Хелат железа Siberian Wellness</h2>
       <p>Хелат железа для улучшения кровообращения и повышения уровня гемоглобина.</p>
       .image-container {
-  height: 300px;
+  height: 500px;
   display: flex;
   align-items: center;
   justify-content: center;
