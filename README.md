@@ -236,7 +236,7 @@
   <h2>MAMA Box Грудное вскармливание</h2>
   <p>Комплексная программа для поддержки здоровья кормящей мамы и нормального развития малыша.</p>
   <div class="image-container">
-    <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500701_new_3f44803c_fit_300_300.png" alt="MAMA Box Грудное вскармливание" />
+    <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500701_new_3f44803c_fit_300_300.png" />
     <div class="caption">MAMA Box Грудное вскармливание (30 пакетов)</div>
   </div>
   <ul>
