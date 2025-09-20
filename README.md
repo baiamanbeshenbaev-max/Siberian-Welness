@@ -90,22 +90,6 @@
 </div>
 
 
-   <!-- Продукт 1: Хелат железа (без цены) -->
-<div class="product">
-  <h2>Хелат железа Siberian Wellness</h2>
-  <p>Хелат железа для улучшения кровообращения и повышения уровня гемоглобина.</p>
-  <div class="image-container">
-    <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501290_1e04a14d_fit_300_300.jpg" alt="Хелат железа Siberian Wellness" />
-    <div class="caption">Баночка с хелатом железа (60 капсул)</div>
-  </div>
-  <ul>
-    <li>Железо в форме хелата — 18 мг</li>
-    <li>Улучшает кровообращение</li>
-    <li>Поддерживает уровень гемоглобина</li>
-  </ul>
-  <p><strong>Как принимать:</strong> по 2 капсулы в день во время еды на протяжении месяца.</p>
-  <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20хелат%20железа" target="_blank" class="btn">Заказать</a>
-</div>
 
 <!-- Продукт 2: Магний (с ценой) -->
 <div class="product">
