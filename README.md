@@ -1,4 +1,5 @@
 
+
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
@@ -192,7 +193,6 @@
     <div class="product">
       <h2>Турбо Чай Siberian Wellness</h2>
       <p>Эффективный травяной чай для поддержания энергии и улучшения обмена веществ.</p>
-       <p><strong>Цена:</strong> 330 сом</p>
       <div class="image-container">
         <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/501501_box_180176c0_fit_300_300.jpg" alt="Турбо Чай Siberian Wellness" />
         <div class="caption">Турбо Чай (упаковка)</div>
@@ -203,6 +203,7 @@
         <li>Содержит натуральные травы и экстракты</li>
       </ul>
       <p><strong>Рекомендации:</strong> заваривать как обычный чай, пить 1–2 раза в день во время еды.</p>
+       <p><strong>Цена:</strong> 330 сом</p>
       <a href="https://wa.me/996771927032?text=Здравствуйте,%20хочу%20заказать%20Турбо%20Чай" target="_blank" class="btn">Заказать</a>
     </div>
 
