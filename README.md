@@ -175,7 +175,7 @@
       <h2>Фиточай Siberian Wellness №2</h2>
       <p>Фиточай для комфортного пищеварения.</p>
       <div class="image-container">
-        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/500585_sq_831517ab.png" alt="Фиточай Siberian Wellness №2" />
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500585_sq_831517ab_fit_300_300.png" />
         <div class="caption">Фиточай 30 фильтр пакетиков</div>
       </div>
       <ul>
