@@ -231,6 +231,7 @@
     <p>© 2025 Консультант Siberian Wellness — Эльвира</p>
     <p>Данный сайт не является официальным!</p>
   </footer>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </body>
 </html>
