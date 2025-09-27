@@ -1,12 +1,12 @@
-
-
+<!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Siberian-Welness | Landing page for my business</title>
   <meta name="description" content="Landing page for my business" />
   <style>
+    /* Базовые стили */
     body {
       font-family: Arial, sans-serif;
       background-color: #f8f8f8;
@@ -14,14 +14,17 @@
       padding: 20px;
       color: #333;
     }
+
     header, footer {
       text-align: center;
       margin-bottom: 30px;
     }
+
     .container {
       max-width: 900px;
       margin: 0 auto;
     }
+
     .product {
       background-color: #fff;
       border: 1px solid #ddd;
@@ -30,20 +33,24 @@
       margin-bottom: 25px;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
+
     .image-container {
       text-align: center;
       margin-bottom: 10px;
     }
+
     .image-container img {
       max-width: 250px;
       height: auto;
       border-radius: 6px;
     }
+
     .caption {
       font-size: 14px;
       color: #777;
       margin-top: 5px;
     }
+
     .btn {
       display: inline-block;
       margin-top: 15px;
@@ -55,42 +62,64 @@
       font-weight: bold;
       transition: background-color 0.3s ease;
     }
+
     .btn:hover {
       background-color: #1e8449;
     }
+
     ul {
       padding-left: 20px;
       margin-top: 10px;
       margin-bottom: 10px;
     }
-    /* Медиазапрос для мобильных устройств */
+
+    /* 📱 Медиазапрос для мобильных устройств */
     @media (max-width: 600px) {
       body {
+        padding: 10px;
         font-size: 18px;
       }
+
       h1 {
         font-size: 28px;
       }
+
       h2 {
         font-size: 22px;
       }
+
       p, li {
         font-size: 16px;
       }
+
       .caption {
         font-size: 14px;
       }
+
       .btn {
+        display: block;
+        width: 100%;
         font-size: 16px;
         padding: 12px 24px;
+        text-align: center;
+        margin-top: 20px;
       }
+
       .image-container img {
         max-width: 100%;
+      }
+
+      header p,
+      footer p {
+        font-size: 16px;
+      }
+
+      .product {
+        padding: 15px;
       }
     }
   </style>
 </head>
-<body>
 
   <header>
     <h1>Продукты Siberian Wellness</h1>
