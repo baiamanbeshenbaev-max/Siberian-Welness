@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>Siberian-Welness | Landing page for my business</title>
   <meta name="description" content="Landing page for my business" />
   <style>
@@ -11,7 +11,7 @@
       font-family: Arial, sans-serif;
       background-color: #f8f8f8;
       margin: 0;
-      padding: 20px;
+      padding: 10px;
       color: #333;
     }
 
