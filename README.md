@@ -74,7 +74,7 @@
     }
 
     /* 📱 Медиазапрос для мобильных устройств */
-    @media (max-width: 600px) {
+    @media (max-width: 768px) {
       body {
         padding: 10px;
         font-size: 18px;
