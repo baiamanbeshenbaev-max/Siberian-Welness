@@ -169,8 +169,8 @@
       <h2>Фиточай Siberian Wellness</h2>
       <p>Травяной чай для поддержки здоровья и улучшения самочувствия.</p>
       <div class="image-container">
-       https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500586_sq_4f8e913a_fit_300_300.png
-        <div class="caption">Фиточай 30 фиоьтр пакетиков</div>
+        <img src="https://static.siberianhealth.com/public/projects/shopen/images/50/_resize/500586_sq_4f8e913a_fit_300_300.png" />
+        <div class="caption">Фиточай 30 фильтр пакетиков</div>
       </div>
       <ul>
         <li>Натуральные травы и ягоды</li>
