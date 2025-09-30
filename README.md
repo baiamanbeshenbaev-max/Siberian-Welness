@@ -8,116 +8,128 @@
   <style>
     /* Базовые стили */
     body {
-      font-family: Arial, sans-serif;
-      background-color: #f8f8f8;
-      margin: 0;
-      padding: 10px;
-      color: #333;
-    }
+/* Основные стили для страницы */
+body {
+  font-family: Arial, sans-serif; /* Шрифт текста */
+  background-color: #f8f8f8; /* Цвет фона страницы */
+  margin: 0; /* Убираем внешние отступы */
+  padding: 10px; /* Внутренние отступы */
+  color: #333; /* Цвет основного текста */
+}
 
-    header, footer {
-      text-align: center;
-      margin-bottom: 30px;
-    }
+/* Стили для шапки и подвала */
+header, footer {
+  text-align: center; /* Выравнивание текста по центру */
+  margin-bottom: 30px; /* Отступ снизу */
+}
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-    }
+/* Контейнер, ограничивающий ширину контента */
+.container {
+  max-width: 900px; /* Максимальная ширина */
+  margin: 0 auto; /* Центрирование по горизонтали */
+}
 
-    .product {
-      background-color: #fff;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      padding: 20px;
-      margin-bottom: 25px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
-    }
+/* Блок одного товара или продукта */
+.product {
+  background-color: #fff; /* Фон — белый */
+  border: 1px solid #ddd; /* Светло-серая рамка */
+  border-radius: 8px; /* Скругление углов */
+  padding: 20px; /* Внутренние отступы */
+  margin-bottom: 25px; /* Отступ снизу */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1); /* Тень */
+}
 
-    .image-container {
-      text-align: center;
-      margin-bottom: 10px;
-    }
+/* Контейнер для изображения */
+.image-container {
+  text-align: center; /* Центрирование картинки */
+  margin-bottom: 10px; /* Отступ снизу */
+}
 
-    .image-container img {
-      max-width: 250px;
-      height: auto;
-      border-radius: 6px;
-    }
+/* Изображения в карточке */
+.image-container img {
+  max-width: 250px; /* Максимальная ширина */
+  height: auto; /* Автоматическая высота */
+  border-radius: 6px; /* Скругление углов */
+}
 
-    .caption {
-      font-size: 14px;
-      color: #777;
-      margin-top: 5px;
-    }
+/* Подпись под изображением */
+.caption {
+  font-size: 14px; /* Размер шрифта */
+  color: #777; /* Серый цвет */
+  margin-top: 5px; /* Отступ сверху */
+}
 
-    .btn {
-      display: inline-block;
-      margin-top: 15px;
-      padding: 10px 20px;
-      background-color: #27ae60;
-      color: #fff;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: bold;
-      transition: background-color 0.3s ease;
-    }
+/* Кнопка */
+.btn {
+  display: inline-block; /* Отображается как строчно-блочный элемент */
+  margin-top: 15px; /* Отступ сверху */
+  padding: 10px 20px; /* Внутренние отступы */
+  background-color: #27ae60; /* Цвет фона (зелёный) */
+  color: #fff; /* Цвет текста — белый */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 5px; /* Скругление углов */
+  font-weight: bold; /* Жирный текст */
+  transition: background-color 0.3s ease; /* Плавное изменение фона при наведении */
+}
 
-    .btn:hover {
-      background-color: #1e8449;
-    }
+/* Поведение кнопки при наведении */
+.btn:hover {
+  background-color: #1e8449; /* Более тёмный зелёный */
+}
 
-    ul {
-      padding-left: 20px;
-      margin-top: 10px;
-      margin-bottom: 10px;
-    }
+/* Стили для списков */
+ul {
+  padding-left: 20px; /* Отступ слева */
+  margin-top: 10px; /* Отступ сверху */
+  margin-bottom: 10px; /* Отступ снизу */
+}
 
-    /* 📱 Медиазапрос для мобильных устройств */
-    @media (max-width: 768px) {
-      body {
-        padding: 10px;
-        font-size: 18px;
-      }
+/* 📱 Медиа-запрос — стили для мобильных устройств (до 768px шириной) */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+    font-size: 18px; /* Увеличиваем базовый размер шрифта */
+  }
 
-      h1 {
-        font-size: 28px;
-      }
+  h1 {
+    font-size: 28px; /* Заголовок h1 поменьше */
+  }
 
-      h2 {
-        font-size: 22px;
-      }
+  h2 {
+    font-size: 22px; /* Заголовок h2 поменьше */
+  }
 
-      p, li {
-        font-size: 16px;
-      }
+  p, li {
+    font-size: 16px; /* Размер шрифта для абзацев и списков */
+  }
 
-      .caption {
-        font-size: 14px;
-      }
+  .caption {
+    font-size: 14px;
+  }
 
-      .btn {
-        display: block;
-        width: 100%;
-        font-size: 16px;
-        padding: 12px 24px;
-        text-align: center;
-        margin-top: 20px;
-      }
+  .btn {
+    display: block; /* Кнопка на всю ширину */
+    width: 100%;
+    font-size: 16px;
+    padding: 12px 24px;
+    text-align: center;
+    margin-top: 20px;
+  }
 
-      .image-container img {
-        max-width: 100%;
-      }
+  .image-container img {
+    max-width: 100%; /* Картинка растягивается на всю ширину */
+  }
 
-      header p,
-      footer p {
-        font-size: 16px;
-      }
+  header p,
+  footer p {
+    font-size: 16px;
+  }
 
-      .product {
-        padding: 15px;
-      }
-    }
+  .product {
+    padding: 15px;
+  }
+}
+
   </style>
 </head>
 
